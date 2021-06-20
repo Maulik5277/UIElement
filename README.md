@@ -21,3 +21,9 @@
 ## SnapShots
 ##### Page 1
 ![Page 1](UITemplet/1.png)
+
+##### Page 2
+![Page 1](UITemplet/2.png)
+
+##### Page 3
+![Page 1](UITemplet/3.png)
